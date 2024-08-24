@@ -1,0 +1,6 @@
+Pillow
+moviepy
+imageio
+pygame
+PyQt5
+python-vlc
